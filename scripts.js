@@ -5,3 +5,7 @@ function entrarNoCurso(params) {
 function sairDoCurso(params) {
     console.log("Sair do curso")
 }
+
+function escolherCurso(params) {
+    console.log("Escolheu o curso")
+}
